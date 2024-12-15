@@ -24,7 +24,7 @@ Uso exclusivamente educacional.
 
 # TUTORIAL 
 
-<a href="https://www.youtube.com/watch?v=EhxPTPBewVI"
+https://www.youtube.com/watch?v=EhxPTPBewVI
 
 # Favoritos
 ```js
