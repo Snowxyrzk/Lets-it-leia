@@ -32,4 +32,5 @@ javascript:(function()%7Bfunction _0x2ca6(_0x296377%2C_0xa107bc)%7Bconst _0x73d9
 ```
 
 ## Criadores
-iUnknownBr e 𝖲𝗇𝗈w
+# _unknow.__.
+# snowxy.rzk
