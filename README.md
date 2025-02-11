@@ -1,6 +1,10 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=tskbrasil&style=for-the-badge&label=Views:&color=ff69b4"/></a>
 # Let-s-It-Leia - Leia Sp
 
+# PROJETO ENCERRADO DEVIDO AO ENCERRAMENTO DA PLATAFORMA DE ENSINO LEIA SP
+
+
+
 ## O que é?
 Script para auxiliar estudantes na resolução de quizzes de livros.
 
