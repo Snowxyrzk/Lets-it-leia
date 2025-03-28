@@ -18,3 +18,4 @@ Uso exclusivamente educacional.
 
 # Site: https://letitsleia.mmrcoss.tech/
 
+**Desenvolvido por: Snow, Marcos10pc, Unknow**
